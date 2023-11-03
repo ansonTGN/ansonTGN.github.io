@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>PEC2 Visualización Datos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        #contenedor {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 20px;
+            background-color: #ffffff; /* Cambia el color de fondo del contenedor */
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+            max-width: 80%;
+        }
+        #imagen-container {
+            border: 2px solid #007bff;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            max-width: 80%;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .highlight {
+            font-weight: bold;
+        }
+        p {
+            margin-top: 20px;
+            font-size: 18px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div id="contenedor">
+        <h1>Gráfica Tipo UpSet (PEC2 Visualización de Datos)</h1>
+        <div id="imagen-container">
+            <img src="grafico.png" alt="Gráfica 3">
+        </div>
+        <p>Esta gráfica permite identificar qué parámetros de los medidos en el conjunto de datos original están agrupados.
+Nota: En <span style="color: blue;">Azul</span> los conjuntos en los que 'failure' no está,
+en <span style="color: brown;">Marron</span> los que tienen "G3" y no tienen "absences",
+y en <span style="color: red;">Rojo</span> los que no tienen 'Fedu'.</p>
+    </div>
+</body>
+</html>
