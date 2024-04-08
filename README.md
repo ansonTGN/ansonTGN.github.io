@@ -2,7 +2,8 @@
 
 Código para la generación CV online personal
 
-Se ha buscado principalemnte transmitir varios aspectos:
+Se ha buscado principalmente transmitir varios aspectos:
+
   - Claridad
   - Transparencia
   - Limpieza
