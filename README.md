@@ -8,6 +8,6 @@ Se ha buscado principalmente transmitir varios aspectos:
   - Transparencia
   - Limpieza
 
-Este formato esta inspirado en la web realizada por [Daan Zwanevel](dhttps://dzwaneveld.github.io/)
+Este formato esta inspirado en la web realizada por [Daan Zwanevel](https://dzwaneveld.github.io/)
 
 
