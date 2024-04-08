@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as i,a4 as n}from"./chunks/framework.4aTu-Nia.js";const g=JSON.parse('{"title":"Angel A. Urbina","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),o={name:"index.md"},r=n("",28),t=[r];function s(l,c,d,p,u,m){return i(),e("div",null,t)}const b=a(o,[["render",s]]);export{g as __pageData,b as default};
