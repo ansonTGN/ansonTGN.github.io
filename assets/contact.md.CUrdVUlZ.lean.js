@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e,a4 as n}from"./chunks/framework.CL14adID.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"contact.md","filePath":"contact.md"}'),o={name:"contact.md"},r=n("",2),s=[r];function c(i,l,_,m,g,p){return e(),a("div",null,s)}const h=t(o,[["render",c]]);export{f as __pageData,h as default};
