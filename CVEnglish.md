@@ -35,7 +35,10 @@
   - Project: "Application of Generative Artificial Intelligence for Identifying Needs and Problem-Solving in Breastfeeding." Developed for [LactApp](https://lactapp.es/).
   - Key Topics: Language Models, Graph Databases, Knowledge Extraction.
 
-- **PDD, Leadership and Social Innovation, (ESADE, 2017)**
+- **PDD, Leadership and Social Innovation, (ESADE, 2017)**.
+::: details
+   - Key Topics: Innovation, Leadership, Communication, Negotiation, Social Impact.
+:::
 
 - **M.Sc. Industrial Engineering, (University of Seville, ETSII 1996)**
 
@@ -71,3 +74,7 @@
 
 - [Parliamentary Intervention](https://youtu.be/2_WZ6tdqVX4?si=CD-UrkUDO-i3RknZl)
 - [Interview](https://youtu.be/0CUdsXlIllE?si=BRVdAjMIGiWAALsX)
+
+## Example Works
+
+- [GP2024 Automation Report](/guide/GP2022E.md)
